@@ -1,5 +1,6 @@
 # Suitelet-1
 Suitescript for creating a suitelet for freshers recruitment.
+This is the branch one of suitelet script!!
 /**
 * @NApiVersion 2.0
 * @NScriptType Suitelet
